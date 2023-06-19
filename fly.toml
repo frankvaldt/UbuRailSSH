@@ -9,7 +9,7 @@ processes = []
 
 [env]
    Password = "haznre"
-   ngrokid = "-"
+   ngrokid = "2RQA05lbTGzPcSS3i9sc5wtQTv5_57fcb2bZNW6kzDd3tdd2D"
    
 
 
